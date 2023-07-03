@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Youtube Clone**
+- 🔭 I’m currently working on ** Youtube Clone **
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning ** Python **
 
-- 💬 Ask me about **Javascript , DSA**
+- 💬 Ask me about **Java , DSA**
 
 - 📫 How to reach me **akshatrawa84@gmail.com**
 
