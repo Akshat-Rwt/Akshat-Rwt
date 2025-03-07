@@ -1,4 +1,3 @@
-![logo](https://github.com/Akshat-Rwt/Akshat-Rwt/blob/main/website-development-company.gif)
 <h1 align="center">Hi 👋, I'm Akshat Rawat</h1>
 <h3 align="center">MTech Student | BECT Graduate (2024) | Passionate Coder with Expertise in DSA, Python, Web Technologies, and AI/ML</h3>
 
