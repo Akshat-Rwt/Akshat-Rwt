@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshat Rawat</h1>
-<h3 align="center">MTech Student | BECT Graduate (2024) | Passionate Coder with Expertise in DSA, Python, Web Technologies, and AI/ML</h3>
+<h3 align="center">MTech Student | BTECH Graduate (2024) | Passionate Coder with Expertise in DSA, Python, Web Technologies, and AI/ML</h3>
 
 - 🔭 I’m currently working on **Indian Hand Sign Detection**
 
