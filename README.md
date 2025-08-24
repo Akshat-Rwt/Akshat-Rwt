@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akshat Rawat</h1>
 <h3 align="center">MTech Student | BTECH Graduate (2024) | Passionate Coder with Expertise in DSA, Python, Web Technologies, and AI/ML</h3>
 
-- 🔭 I’m currently working on **Indian Hand Sign Detection**
+- 🔭 I’m currently working on **AI Trainer**
 
 - 🌱 I’m currently learning **AI & ML , Python + Libraries**
-
-- 🤝 I’m looking for help with **Indian Hand Sign Detection**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akshat-Rwt](https://github.com/Akshat-Rwt)
 
